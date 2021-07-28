@@ -1,1 +1,1 @@
-Ecommerce-fachion-website live link: (https://trusting-turing-503e67.netlify.app/)
+Ecommerce-fachion-website live link: (https://ecommerce-fashion-website.netlify.app)
